@@ -10,7 +10,7 @@ Imagen de demostracion:
 -   Escaneando silla con fotos de camara
     ![Camara](./images/CamaraEscaner.jpg)
 -   Personas posiblemente escaneadas con camara o videos
-    ![Persona](./images/PersonasEscaneadas.jpg)
+    ![Persona](./images/PersonasEscaneadas.jpeg)
 
 ## Integrantes
 
