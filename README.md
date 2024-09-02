@@ -8,9 +8,9 @@ El proyecto se basa en la creacion de una imagen 3D de la persona u objeto que s
 Imagen de demostracion:
 
 -   Escaneando silla con fotos de camara
-    [![Camara](./images/CamaraEscaner.jpg)]
+    ![Camara](./images/CamaraEscaner.jpg)
 -   Personas posiblemente escaneadas con camara o videos
-    [![Persona](./images/PersonaEscaneadas.jpg)]
+    ![Persona](./images/PersonasEscaneadas.jpg)
 
 ## Integrantes
 
