@@ -1,6 +1,5 @@
-# RealScan3D
+Este proyecto consistirá en una app en la cuál permitirá al usuario escanear objetos y/o personas para, poder así, visualizar su modelo 3D en el dispositivo.
 
-Proyecto de computación gráfica
 
 ## Descripcion del proyecto
 
