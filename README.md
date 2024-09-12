@@ -1,4 +1,4 @@
-Este proyecto consistirá en una app en la cuál permitirá al usuario escanear objetos y/o personas para, poder así, visualizar su modelo 3D en el dispositivo.
+Este proyecto consistirá en una app la cuál permitirá al usuario escanear objetos y/o personas para, poder así, visualizar su modelo 3D en el dispositivo.
 
 
 ## Descripcion del proyecto
