@@ -14,7 +14,7 @@ Imagen de demostracion:
 
 ## Integrantes
 
--   Matias Maravi Anyosa
--   Leonardo Isidro Salazar
--   Jerimy Sandoval Rivera
--   Alejandro Calizaya Alvarez
+-   Matias Fabricio Maravi Anyosa
+-   Leonardo Daniel Isidro Salazar
+-   Jerimy Pierre Sandoval Rivera
+-   Alejandro Gerardo Calizaya Alvarez
